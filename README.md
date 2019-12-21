@@ -1,2 +1,2 @@
 # scrummer-self-bot
-This a self bot. It's forbidden. Use it on your on risk.
+This is a self bot. It's forbidden. Use it on your own risk.
