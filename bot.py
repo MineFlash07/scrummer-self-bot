@@ -41,7 +41,7 @@ def write_file(file_data):
 
 @client.event
 async def on_ready():
-    print("Bot stated")
+    print("Bot started")
 
 
 @client.event
